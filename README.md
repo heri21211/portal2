@@ -1,1 +1,1 @@
-# portal2
+# webportal-activation
